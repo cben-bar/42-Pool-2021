@@ -1,0 +1,5 @@
+Credentials cache: API:B3E08769-174F-470E-A789-680D0EDCD272
+        Principal: cben-bar@42LYON.FR
+
+  Issued                Expires               Principal
+Aug 30 10:16:44 2021  Aug 31 10:16:44 2021  krbtgt/42LYON.FR@42LYON.FR
